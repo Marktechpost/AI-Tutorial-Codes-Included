@@ -8,6 +8,8 @@
 
 ### Agentic AI and Agents Tutorials/Implementations and Notebooks
 
+▶ Build a Modular Skill-Based Agent System for LLMs with Dynamic Tool Routing in Python [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/skill_based_agent_system_llm_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/05/build-a-modular-skill-based-agent-system-for-llms-with-dynamic-tool-routing-in-python/)
+
 ▶ Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20Workflows/ai_agents_biological_systems_modeling_Marktechpost(1).ipynb) [Tutorial](https://www.marktechpost.com/2026/05/02/build-a-multi-agent-ai-workflow-for-biological-network-modeling-protein-interactions-metabolism-and-cell-signaling-simulation/)
 
 ▶ A Coding Implementation to Parsing, Analyzing, Visualizing, and Fine-Tuning Agent Reasoning Traces Using the lambda/hermes-agent-reasoning-traces Dataset [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Agentic%20AI%20Codes/hermes_agent_reasoning_traces_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/02/a-coding-implementation-to-parsing-analyzing-visualizing-and-fine-tuning-agent-reasoning-traces-using-the-lambda-hermes-agent-reasoning-traces-dataset/)
